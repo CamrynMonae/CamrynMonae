@@ -4,10 +4,10 @@
 
 - <b>How To Leverage Cloud</b>
   - [Active Directory Home Lab](https://github.com/CamrynMonae/ActiveDirectoryLab)
-  - [Wireshark & Network Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Splunk SIEM & Log Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ServiceNow ITSM](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Nessus Vulnerability Scanning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wireshark & Network Analysis](https://github.com/CamrynMonae/Wireshark-Network-Analysis)
+  - [Splunk SIEM & Log Analysis]()
+  - [ServiceNow ITSM]()
+  - [Nessus Vulnerability Scanning]()
 
 
 <h2>📄 Certifications</h2>
