@@ -26,7 +26,7 @@ Skills listed reflect my learning and hands-on lab experience, not necessarily p
 
 1. Active Directory Home Lab
 
-View Project
+[View Project](https://github.com/CamrynMonae/ActiveDirectoryLab)
 
 * Explored Active Directory Domain Services.
 * Created organizational units, users, and security groups.
@@ -35,7 +35,7 @@ View Project
 
 2. Wireshark Network Analysis
 
-View Project
+[View Project](https://github.com/CamrynMonae/Wireshark-Network-Analysis)
 
 * Captured and analyzed network traffic.
 * Investigated DNS queries and responses.
@@ -53,7 +53,8 @@ View Project
 
 🎓 Certifications & Professional Development
 
-* Google Cybersecurity Professional Certificate
+* [Google Cybersecurity Professional Certificate](https://coursera.org/share/6920859439a2b60a0b5255000b01c500)
+
 * CompTIA A+ — In Progress
 * CompTIA Network+ — Learning Roadmap
 
@@ -67,7 +68,7 @@ View Project
 
 📫 Let’s Connect
 
-LinkedIn
+ [LinkedIn](https://www.linkedin.com/in/camryn-moore-420322195/)
 
 I’m always interested in learning, collaborating, and connecting with professionals in IT, cloud computing, and cybersecurity.
 
