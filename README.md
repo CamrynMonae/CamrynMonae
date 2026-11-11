@@ -1,40 +1,74 @@
-<h1>Hi, I'm Camryn! </h1>
+Hi, I’m Camryn! 👋🏽
 
-<h2>👩🏽‍💻 Cloud Engineering / Tech Projects:</h2>
+Aspiring Cloud Support Engineer | Future Cloud Security Engineer
 
-- <b>How To Leverage Cloud</b>
-  - [Active Directory Home Lab](https://github.com/CamrynMonae/ActiveDirectoryLab)
-  - [Wireshark & Network Analysis](https://github.com/CamrynMonae/Wireshark-Network-Analysis)
-  - [Splunk SIEM & Log Analysis]()
-  - [ServiceNow ITSM]()
-  - [Nessus Vulnerability Scanning]()
+I’m an aspiring IT and cloud professional building hands-on experience in cloud infrastructure, systems administration, networking, and cybersecurity.
 
+I enjoy learning how technology works behind the scenes, troubleshooting technical challenges, and building practical projects that strengthen my understanding of IT environments.
 
-<h2>📄 Certifications</h2>
+My long-term goal is to grow into Cloud Security Engineering, combining cloud infrastructure knowledge with security operations and risk management.
 
-- [Google Cybersecurity](https://coursera.org/share/6920859439a2b60a0b5255000b01c500)
+⸻
 
+🛠️ Technical Skills & Tools
 
-<h2> 🤳 Connect with me:</h2>
+Area	Technologies & Tools
+Cloud	Microsoft Azure
+Systems Administration	Windows, Active Directory
+Networking	TCP/IP, DNS, Wireshark
+Security	Splunk, SIEM fundamentals
+Scripting	PowerShell
+IT Operations	Troubleshooting, User & Account Management
 
+Skills listed reflect my learning and hands-on lab experience, not necessarily professional production experience.
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+💻 Hands-On Projects
 
+1. Active Directory Home Lab
 
+View Project
 
-[linkedin]:https://www.linkedin.com/in/camryn-moore-420322195/
+* Explored Active Directory Domain Services.
+* Created organizational units, users, and security groups.
+* Worked with Group Policy and account security settings.
+* Practiced PowerShell-based administration.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. Wireshark Network Analysis
 
-Here are some ideas to get you started:
+View Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Captured and analyzed network traffic.
+* Investigated DNS queries and responses.
+* Examined TCP connection handshakes.
+* Explored HTTP traffic and packet streams.
+
+3. Splunk SIEM & Log Analysis
+
+View Project
+
+* Developing practical experience with SIEM concepts and log analysis.
+* Expanding documentation of security investigations and search queries.
+
+⸻
+
+🎓 Certifications & Professional Development
+
+* Google Cybersecurity Professional Certificate
+* CompTIA A+ — In Progress
+* CompTIA Network+ — Learning Roadmap
+
+🎯 Career Goals
+
+* Develop strong IT support and troubleshooting skills.
+* Build practical cloud infrastructure experience.
+* Strengthen networking and security fundamentals.
+* Develop hands-on SIEM and incident investigation skills.
+* Progress toward Cloud Security Engineering.
+
+📫 Let’s Connect
+
+LinkedIn
+
+I’m always interested in learning, collaborating, and connecting with professionals in IT, cloud computing, and cybersecurity.
+
+Learning continuously. Building intentionally. Growing one project at a time.
